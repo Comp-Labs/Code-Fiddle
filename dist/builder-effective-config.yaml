@@ -1,0 +1,6 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.complabs.stackblitz
+files: []
+electronVersion: 16.0.2

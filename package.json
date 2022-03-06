@@ -1,0 +1,25 @@
+{
+  "name": "stackblitz",
+  "productName": "StackBlitz",
+  "version": "1.0.0",
+  "description": "Stackblitz App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/comp-labs/Google-Docs",
+  "keywords": [
+    "Google",
+    "Docs",
+    "Productivity",
+    "App"
+  ],
+  "author": "Comp Labs",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^16.0.2"
+  },
+  "build": {
+    "appId": "com.complabs.stackblitz"
+}
+}
